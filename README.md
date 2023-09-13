@@ -1,8 +1,14 @@
-# Receipt Search app built with Vue.js
-This repository is created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
+##
+api使用的是: https://www.themealdb.com/api.php   [免费]
 
-## Demo
-[https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+##
+功能:
+1.通过关键词搜索到美食
+2.通过26个字母搜索到美食
+3.通过点击食品分类标签搜索到美食
+
+##
+该项目主要是学习如何用axios获取api接口数据
 
 ## Installation
 1. Clone the repository
@@ -10,7 +16,3 @@ This repository is created alongside the following [YouTube Tutorial](https://yo
 1. Copy `.env.example` into `.env`
 1. Run `npm run dev` to start the application at http://localhost:3000
 
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
